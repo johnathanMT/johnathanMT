@@ -1,15 +1,19 @@
 <div align="center">
 
 <a href="https://myothant.dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img src="assets/hero-light.svg" alt="MTN.Digitosphere — Aspiring AI Engineer. Myo Thant Naing. LLMs, AI agents, multi-agent systems and RAG." width="100%">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/hero-m-dark.svg">
+  <source media="(max-width: 640px)" srcset="assets/hero-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" alt="MTN.Digitosphere — Aspiring AI Engineer. Myo Thant Naing. LLMs, AI agents, multi-agent systems and RAG." width="100%">
+</picture>
 </a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=1000&color=E5B84B&center=true&vCenter=true&width=620&lines=%3E+designing+AI+agents+that+think%2C+plan+and+act;%3E+orchestrating+LLMs+into+real+products;%3E+building+multi-agent+systems;%3E+welcome%2C+operator.">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=1000&color=8A6A2A&center=true&vCenter=true&width=620&lines=%3E+designing+AI+agents+that+think%2C+plan+and+act;%3E+orchestrating+LLMs+into+real+products;%3E+building+multi-agent+systems;%3E+welcome%2C+operator." alt="Animated tagline">
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=1000&color=E5B84B&center=true&vCenter=true&width=620&lines=%3E+designing+AI+agents+that+think%2C+plan+and+act;%3E+orchestrating+LLMs+into+real+products;%3E+building+multi-agent+systems;%3E+welcome%2C+operator.">
+  <source media="(max-width: 640px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=1000&color=8A6A2A&center=true&vCenter=true&width=620&lines=%3E+designing+AI+agents+that+think%2C+plan+and+act;%3E+orchestrating+LLMs+into+real+products;%3E+building+multi-agent+systems;%3E+welcome%2C+operator.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=E5B84B&center=true&vCenter=true&width=720&lines=%3E+designing+AI+agents+that+think%2C+plan+and+act;%3E+orchestrating+LLMs+into+real+products;%3E+building+multi-agent+systems;%3E+welcome%2C+operator.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=8A6A2A&center=true&vCenter=true&width=720&lines=%3E+designing+AI+agents+that+think%2C+plan+and+act;%3E+orchestrating+LLMs+into+real+products;%3E+building+multi-agent+systems;%3E+welcome%2C+operator." alt="Animated tagline">
 </picture>
 
 <p>
@@ -23,6 +27,8 @@
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/about-m-dark.svg">
+  <source media="(max-width: 640px)" srcset="assets/about-m-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
   <img src="assets/about-light.svg" alt="What I do: build AI agents and multi-agent systems; design LLM workflows with tool use and RAG; ship reliable AI products; keep learning Azure AI Foundry, agent design patterns and reinforcement learning." width="100%">
 </picture>
@@ -33,8 +39,10 @@
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/stack-m-dark.svg">
+  <source media="(max-width: 640px)" srcset="assets/stack-m-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Tech stack: C#, .NET, Python, FastAPI, TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS, Three.js, Node.js, HTML5, CSS3, Claude, Claude Code, Gemini, OpenAI API, Azure, Unity, Git, GitHub, VS Code, Vercel, MicroPython" width="100%">
+  <img src="assets/stack-light.svg" alt="Tech stack: Python, C#, .NET, TypeScript, JavaScript, React, Next.js, FastAPI, Node.js, Tailwind CSS, Three.js, Vite, Claude, Claude Code, Gemini, OpenAI API, Azure, Vercel, Git, GitHub, VS Code, Unity, MicroPython, HTML5" width="100%">
 </picture>
 
 <picture>

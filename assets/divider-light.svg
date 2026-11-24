@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="14" viewBox="0 0 800 14">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="14" viewBox="0 0 1200 14">
 <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#d4af37" stop-opacity="0"/>
 <stop offset=".5" stop-color="#b8860b"/><stop offset="1" stop-color="#d4af37" stop-opacity="0"/></linearGradient></defs>
-<style>.m { animation: move 5s ease-in-out infinite; } @keyframes move { 0% { transform: translateX(-340px); } 100% { transform: translateX(800px); } }</style>
-<rect y="6" width="800" height="1.5" fill="#e8dfc9"/>
-<rect class="m" y="5" width="340" height="3.5" rx="2" fill="url(#g)"/>
-<circle cx="400" cy="7" r="3.5" fill="#d4af37"/>
+<style>.m { animation: move 5s ease-in-out infinite; } @keyframes move { 0% { transform: translateX(-500px); } 100% { transform: translateX(1200px); } }</style>
+<rect y="6" width="1200" height="1.5" fill="#e8dfc9"/>
+<rect class="m" y="5" width="500" height="3.5" rx="2" fill="url(#g)"/>
+<circle cx="600" cy="7" r="3.5" fill="#d4af37"/>
 </svg>

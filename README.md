@@ -8,8 +8,8 @@
 </a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=E5B84B&center=true&vCenter=true&width=720&lines=%3E+designing+AI+agents+that+think%2C+plan+and+act;%3E+orchestrating+LLMs+into+real+products;%3E+building+multi-agent+systems;%3E+welcome%2C+operator.">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=8A6A2A&center=true&vCenter=true&width=720&lines=%3E+designing+AI+agents+that+think%2C+plan+and+act;%3E+orchestrating+LLMs+into+real+products;%3E+building+multi-agent+systems;%3E+welcome%2C+operator." alt="Animated tagline">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=1000&color=E5B84B&center=true&vCenter=true&width=620&lines=%3E+designing+AI+agents+that+think%2C+plan+and+act;%3E+orchestrating+LLMs+into+real+products;%3E+building+multi-agent+systems;%3E+welcome%2C+operator.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=1000&color=8A6A2A&center=true&vCenter=true&width=620&lines=%3E+designing+AI+agents+that+think%2C+plan+and+act;%3E+orchestrating+LLMs+into+real+products;%3E+building+multi-agent+systems;%3E+welcome%2C+operator." alt="Animated tagline">
 </picture>
 
 <p>

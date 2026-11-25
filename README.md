@@ -42,7 +42,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/code-m-dark.svg">
   <source media="(max-width: 640px)" srcset="assets/code-m-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/code-dark.svg">
-  <img src="assets/code-light.svg" alt="Animated code editor: a Python AI agent class types itself line by line, then runs in a terminal and reports that the agent is online." width="100%">
+  <img src="assets/code-light.svg" alt="Animated code editor: a C# AI agent class types itself line by line, then runs in a terminal and reports that the agent is online." width="100%">
 </picture>
 
 <picture>
